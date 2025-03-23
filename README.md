@@ -1,6 +1,6 @@
 # Hybrid Log Classification System
 
-This project implements a hybrid log classification system that combines three complementary approaches to handle varying levels of complexity in log patterns. The classification methods ensure flexibility and effectiveness in processing predictable, complex, and poorly-labeled data patterns.
+This project uses a hybrid log classification system with three methods to handle different types of log patterns. It ensures flexibility and accuracy in processing both simple and complex log data.
 
 ## Classification Approaches
 
